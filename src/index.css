@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+header{
+    background: rgb(247, 89, 89);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    color: azure;
+    align-items: center;
+    
+}
+
+header > img{
+    width: 24px;
+    margin-right: 5px;
+}
+
+header > span{
+    font-size: 1rem;
+    font-weight: 500;
+}
